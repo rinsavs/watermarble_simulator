@@ -1,0 +1,13 @@
+﻿  main.cpp
+f:\courses\multimedia signal processing\final project\mathematical marbling\mathematical marbling\modifier.h(62): warning C4305: '=': truncation from 'double' to 'float'
+f:\courses\multimedia signal processing\final project\mathematical marbling\mathematical marbling\modifier.h(63): warning C4305: '=': truncation from 'double' to 'float'
+f:\courses\multimedia signal processing\final project\mathematical marbling\mathematical marbling\modifier.h(64): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+main.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(85): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+main.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(302): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+main.obj : warning LNK4248: unresolved typeref token (01000018) for 'CTwBar'; image may not run
+  Mathematical Marbling.vcxproj -> F:\Courses\Multimedia Signal Processing\Final Project\Mathematical Marbling\Debug\Mathematical Marbling.exe
+  Mathematical Marbling.vcxproj -> F:\Courses\Multimedia Signal Processing\Final Project\Mathematical Marbling\Debug\Mathematical Marbling.pdb (Partial PDB)

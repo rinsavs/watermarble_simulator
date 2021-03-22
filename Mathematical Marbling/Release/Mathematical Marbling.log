@@ -1,0 +1,11 @@
+﻿  main.cpp
+e:\multimedia information system\final project\mis final project\mathematical marbling\mathematical marbling\modifier.h(62): warning C4305: '=': truncation from 'double' to 'float'
+e:\multimedia information system\final project\mis final project\mathematical marbling\mathematical marbling\modifier.h(64): warning C4305: '=': truncation from 'double' to 'float'
+main.cpp(71): warning C4018: '<': signed/unsigned mismatch
+main.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(85): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+main.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(302): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.obj : warning LNK4248: unresolved typeref token (01000018) for 'CTwBar'; image may not run
+  Mathematical Marbling.vcxproj -> E:\Multimedia Information System\Final Project\MIS final project\Mathematical Marbling\Release\Mathematical Marbling.exe
+  Mathematical Marbling.vcxproj -> E:\Multimedia Information System\Final Project\MIS final project\Mathematical Marbling\Release\Mathematical Marbling.pdb (Full PDB)
