@@ -20,3 +20,6 @@ How to use the program:
 - Center: the drop center x, and center y. Use this to re-position the drop
 - Color: change drop's color, floating point from 0 to 1 is used
 - Marble selection: select the marbling type, please refer to Mathematical Marbling by Shufang Lu et al.
+
+P.S.
+Some of the marbling are available as post-rendering effect, written in GLSL shader, in the post-render repo (https://github.com/rinsavs/post-render/tree/main). 
